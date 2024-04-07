@@ -30,5 +30,4 @@ public class Event {
 
     @Column(nullable = false, name = "maximum_attendees")
     private Integer maximumAttendees;
-
 }
