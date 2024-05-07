@@ -1,4 +1,4 @@
-# Chess Game
+# Gerenciador De Eventos
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gcalado55/Java-Chess/blob/master/License) 
 
 # Sobre o projeto
